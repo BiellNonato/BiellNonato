@@ -3,7 +3,7 @@
 <section align="left">
     <td>
         <div>
-            <img src="https://giffiles.alphacoders.com/221/221615.gif" alt="GIF" width="400px" height="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
+            <img src="https://media1.tenor.com/m/tj1VInaub7gAAAAd/silksong-hollow-knight.gif" alt="GIF" width="400px" height="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
         </div>
     </td>
     <td>
