@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Atualmente estudando **Sistemas de Imformação**.
+- 🎓 Atualmente estudando **Sistemas de Informação**.
 - 💻 Interessado em desenvolvimento de software e tecnologia.
 - 🚀 Sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
 - 🎮 Entusiasta de jogos e tecnologia.
