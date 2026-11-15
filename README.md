@@ -1,49 +1,68 @@
+ <div align="center">
 
-<table>
-<section align="left">
-    <td>
-        <div>
-            <img src="https://media1.tenor.com/m/tj1VInaub7gAAAAd/silksong-hollow-knight.gif" alt="GIF" width="400px" height="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
-        </div>
-    </td>
-    <td>
-    <div>
-        <h3>Sobre mim</h3>
-        <p>Hey!, Gabriel pereira, estudando atualmente tecnico em Desenvolvimento de Sistemas</p>
-    </div>
-    <div>
-        <h3>Habilidades:</h3>
-            <div align="left">
-                <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40" /> 
-                </a>
-                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-                        <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Javascript" width="40" height="40" /> 
-                </a>
-                <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" /> 
-                </a>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-                </a>
-                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-                </a>
-                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-                        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-                </a>
-                </div>
-                 <br>
-                    <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BiellNonato&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="BiellNonato" />
-</p>
-        <br>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=BiellNonato&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="BiellNonato" /></p>
-            </div>
-        </td>
-</section>
+  <img src="https://media1.tenor.com/m/tj1VInaub7gAAAAd/silksong-hollow-knight.gif" width="350px" alt="Hollow Knight Silksong">
 
-</table>
+  # Gabriel Pereira
 
+  ### Desenvolvedor em formação 💻
 
+  Estudante, explorando tecnologias e desenvolvendo projetos para aprimorar minhas habilidades na programação.
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=2&section=header" width="80%">
+
+</div>
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Atualmente estudando **Sistemas de Imformação**.
+- 💻 Interessado em desenvolvimento de software e tecnologia.
+- 🚀 Sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
+- 🎮 Entusiasta de jogos e tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code">
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma">
+  </a>
+
+</div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiellNonato&theme=midnight_purple" width="95%" alt="Resumo do GitHub">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiellNonato&theme=midnight_purple" width="47%" alt="Linguagens por repositório">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BiellNonato&theme=midnight_purple" width="47%" alt="Estatísticas do GitHub">
+
+</div>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" width="100%">
+
+  **"Transformando ideias em código, um projeto de cada vez."**
+
+</div>
